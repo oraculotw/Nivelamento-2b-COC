@@ -1,7 +1,20 @@
 body{
-
-background-color:#FF7F50 ;
-color: black;
+background-color:#68531f ;
 
 
+}
+h1{
+
+    color: aqua;
+}
+
+
+.capa{
+   color: brown; 
+   font-size: 20px;
+}
+
+#heroi{
+    display: flex;
+    padding-left: 200px;
 }
